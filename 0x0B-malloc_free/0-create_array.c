@@ -8,7 +8,6 @@
  */
 char *create_array(unsigned int size, char c)
 {
-	int size;
 	char *arr;
 	unsigned int i;
 
